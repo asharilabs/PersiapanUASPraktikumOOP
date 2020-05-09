@@ -1,0 +1,11 @@
+C:\Users\asharilabs\source\repos\OOP_PraUAS_Praktik\OOP_PraUAS_Praktik\bin\Debug\netcoreapp3.1\OOP_PraUAS_Praktik.exe
+C:\Users\asharilabs\source\repos\OOP_PraUAS_Praktik\OOP_PraUAS_Praktik\bin\Debug\netcoreapp3.1\OOP_PraUAS_Praktik.deps.json
+C:\Users\asharilabs\source\repos\OOP_PraUAS_Praktik\OOP_PraUAS_Praktik\bin\Debug\netcoreapp3.1\OOP_PraUAS_Praktik.runtimeconfig.json
+C:\Users\asharilabs\source\repos\OOP_PraUAS_Praktik\OOP_PraUAS_Praktik\bin\Debug\netcoreapp3.1\OOP_PraUAS_Praktik.runtimeconfig.dev.json
+C:\Users\asharilabs\source\repos\OOP_PraUAS_Praktik\OOP_PraUAS_Praktik\bin\Debug\netcoreapp3.1\OOP_PraUAS_Praktik.dll
+C:\Users\asharilabs\source\repos\OOP_PraUAS_Praktik\OOP_PraUAS_Praktik\bin\Debug\netcoreapp3.1\OOP_PraUAS_Praktik.pdb
+C:\Users\asharilabs\source\repos\OOP_PraUAS_Praktik\OOP_PraUAS_Praktik\obj\Debug\netcoreapp3.1\OOP_PraUAS_Praktik.csprojAssemblyReference.cache
+C:\Users\asharilabs\source\repos\OOP_PraUAS_Praktik\OOP_PraUAS_Praktik\obj\Debug\netcoreapp3.1\OOP_PraUAS_Praktik.AssemblyInfoInputs.cache
+C:\Users\asharilabs\source\repos\OOP_PraUAS_Praktik\OOP_PraUAS_Praktik\obj\Debug\netcoreapp3.1\OOP_PraUAS_Praktik.AssemblyInfo.cs
+C:\Users\asharilabs\source\repos\OOP_PraUAS_Praktik\OOP_PraUAS_Praktik\obj\Debug\netcoreapp3.1\OOP_PraUAS_Praktik.dll
+C:\Users\asharilabs\source\repos\OOP_PraUAS_Praktik\OOP_PraUAS_Praktik\obj\Debug\netcoreapp3.1\OOP_PraUAS_Praktik.pdb
